@@ -1,5 +1,9 @@
 # Grid Design Studio
 
+## Link
+
+- Live Site URL: [https://saadmalik200.github.io/Grid-layout-design-studio/](https://saadmalik200.github.io/Grid-layout-design-studio/)
+
 You've just been tasked with creating the new homepage for the _Rimrod & Harris_ design studio. Below is the mockup the designer just sent you for the site -
 ![reference image](assets/reference-image.png)
 
