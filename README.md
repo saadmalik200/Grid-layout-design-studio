@@ -4,12 +4,14 @@
 
 - Live Site URL: [https://saadmalik200.github.io/Grid-layout-design-studio/](https://saadmalik200.github.io/Grid-layout-design-studio/)
 
+## Challenge
+
 You've just been tasked with creating the new homepage for the _Rimrod & Harris_ design studio. Below is the mockup the designer just sent you for the site -
 ![reference image](assets/reference-image.png)
 
 Looks like a job for **CSS Grid**, right?
 
-#### Instructions
+## Instructions
 
 > - Use the _Maven Pro_ font from **Google Fonts**
 > - Don't worry about responsivity at the moment - just concentrate on the desktop layout
